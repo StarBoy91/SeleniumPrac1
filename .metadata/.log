@@ -1,0 +1,52 @@
+!SESSION 2018-05-05 18:55:50.020 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_162
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-05-05 18:56:11.524
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:25:39.603
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:25:39.724
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:27:37.306
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:27:37.415
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:27:38.667
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:29:55.806
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:29:55.831
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:36:31.517
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:37:01.641
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:37:35.712
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:38:16.306
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:38:54.392
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:39:23.986
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-05-05 19:42:21.821
+!MESSAGE Invalid ZIP archive: /home/ankit/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
